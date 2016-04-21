@@ -25,3 +25,9 @@ thus harder questions. The idea combines the idea of a graph (map of several cit
 of the movie inventory, a struct for each movie data structure, and public methods to add movies, 
 change regions, and others. They could be songs - like guess the lyrics, or stories where you answer
 trivia questoins about the story.  
+
+Patrick: My idea was to build off of one of the past assignments, specifically the binary tree movie project.  My idea was to create a library of songs or movies, and to have separate functions that would build the binary tree in different fashions, changing the way in which the movies or songs were organized.  For example, they could be organized by genre and then alphabetically within each genre.  Each movie node would also include a "display similar movies" which would randomly select 5 movies with the same genre and list them as suggestions. 
+
+Final decision:
+
+We decided to build on Jinhong's idea of implementing a graph with extra functions.  We have also added the option to add in services in each city.  These services list a name and a cost, such as 'gas' for $'20'. This helps the user "plan a road trip" based on which services are in which city.
