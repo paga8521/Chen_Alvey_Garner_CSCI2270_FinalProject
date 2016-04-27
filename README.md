@@ -3,8 +3,8 @@ CSCI 2270 Final Project
 
 Members:
 
- Jinhong Chen
- Justin Alvey
+ Jinhong Chen,
+ Justin Alvey,
  Patrick Garner
  
 Summary:
